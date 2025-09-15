@@ -1,6 +1,6 @@
 [Desktop Entry]
 Version=1.0
-Name=Default Session
+Name=Default Wayland Session
 Exec=Hyprland
 Icon=
 Type=Application
