@@ -35,6 +35,9 @@ nwg-look
 mako-notifier
 
 
+policykit-1-gnome
+
+
 swayidle
 
 
