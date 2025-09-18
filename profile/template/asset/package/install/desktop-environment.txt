@@ -18,6 +18,33 @@ hyprpaper
 xwayland
 
 
+swaybg
+hyprpaper
+wf-shell
+
+
+wlogout
+
+
+wofi
+
+
+nwg-look
+
+
+mako-notifier
+
+
+swayidle
+
+
+grimshot
+#screengrab
+#xfce4-screenshooter
+
+
+kitty
+foot
 xfce4-terminal
 
 
